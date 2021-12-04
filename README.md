@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Emiliano0o
+- 👀 I’m interested in learn programming languages.
+- 🌱 I’m currently learning learning java. (Bukkit Api)
+- 📫 How to contact me altderena@gmail.com
